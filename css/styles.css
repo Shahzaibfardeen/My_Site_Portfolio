@@ -7,7 +7,7 @@ body {
 
 h1 {
   color: #66BFBF;
-  font-size: 4.625rem;
+  font-size: 3.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
@@ -16,9 +16,9 @@ h2 {
   color: #66BFBF;
   /* font-family: 'Montserrat', sans-serif; */
   font-family: 'Times New Roman', Times, serif;
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   font-weight: normal;
-  padding-bottom: 10px;
+  padding-bottom: 70px;
 }
 
 h3 {
@@ -51,7 +51,7 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 150px;
+  padding-top: 100px;
 }
 
 .middle-container {
@@ -91,14 +91,14 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 60px;
+  right: 240px;
+  top: 50px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 230px;
-  bottom: 110px;
+  left: 200px;
+  bottom: 90px;
 }
 
 .code-img {
