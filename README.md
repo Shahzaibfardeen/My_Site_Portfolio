@@ -7,4 +7,4 @@ Single Page - My Site Details About Me (Re-Make) Edition
 
 ### The Way The Web Page Look
 
-![Web_Page_Image](images/Project.png)
+![Web_Page_Image](images/Profile.png)
